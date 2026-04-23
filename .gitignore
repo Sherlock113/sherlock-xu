@@ -9,3 +9,9 @@ node_modules/
 out/
 dist/
 *.log
+
+wechat/
+
+# AI agents
+.claude/
+.codex/

@@ -37,9 +37,9 @@ export default function Home() {
           </div>
           <div className="flex-1 text-center md:text-left">
             <h1 className="text-4xl md:text-5xl font-bold mb-3 text-balance">Hi, I'm Sherlock</h1>
-            <p className="text-xl text-muted-foreground mb-6 text-pretty">Information Architect & Technical Writer @BentoML 🍱</p>
+            <p className="text-xl text-muted-foreground mb-6 text-pretty">Content Strategist & Technical Writer @Modular AI</p>
             <p className="text-lg leading-relaxed text-foreground/90 mb-6">
-              I'm a technical writer and content strategist focused on AI infrastructure, LLM inference, and open-source technologies.
+              I'm a content strategist and technical writer focused on AI infrastructure, LLM inference, and open-source technologies.
               I transform dense technical concepts into clear, high-impact content (e.g., docs, blog posts, case studies) with smart SEO/GEO strategies.
             </p>
 
